@@ -1,4 +1,4 @@
-baseurl = "http://liquidtrends.github.io"
+baseurl = "https://ryanjanvier.com/"
 title = "Ryan Janvier"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -39,6 +39,6 @@ copyright = "© 2019 Copyright Text"
     weight = 3
 
   [[menu.main]]
-    url = "/"
+    url = "#contact"
     name = "Contact"
     weight = 4
